@@ -1,0 +1,16 @@
+---
+version: '1'
+type: infrastructure
+extras:
+  tags:
+    - templates
+    - github
+
+component:
+  name: service-routing-org-templates
+  owner: Cassini
+  description: Repo for storing default template files for organisation
+  personalDataHandling: none
+  soxScope: False
+  serviceClass: economy-class
+  paymentProcessing: False
