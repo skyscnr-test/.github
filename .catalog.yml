@@ -7,7 +7,7 @@ extras:
     - github
 
 component:
-  name: service-routing-org-templates
+  name: strata-org-templates
   owner: Cassini
   description: Repo for storing default template files for organisation
   personalDataHandling: none
